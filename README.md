@@ -1,1 +1,3 @@
-# -padroes_de_projeto_de_sistema-
+# Padroes de projeto de sistema 
+
+Aluno: Marcos dos Santos
