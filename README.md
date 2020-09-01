@@ -1,3 +1,7 @@
 # Padroes de projeto de sistema 
 
-Aluno: Marcos dos Santos
+## Alunos: 
+- Marcos dos Santos  
+-   
+-  
+-  
